@@ -1,0 +1,9 @@
+numpy
+matplotlib
+torch
+pandas
+numpy
+torchvision
+scikit_learn
+geneticalgorithm
+joblib
